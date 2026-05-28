@@ -122,3 +122,5 @@ npm run dev
 Hvis dine to konti (amaroq-glamping.dk og .de) er i samme Google Workspace, logger du bare ind med den primære konto – appen henter automatisk emails sendt til begge adresser.
 
 Hvis de er i separate Google-konti, skal du tilføje den anden konto som en ekstra OAuth-bruger i Google Cloud Console.
+
+
